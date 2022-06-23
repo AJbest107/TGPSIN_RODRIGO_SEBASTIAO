@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1655818523 source:c:\users\2221215\documents\codeblocksv2\projetof\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"conio.c"
+	<unistd.h>
+	<time.h>
+	"MenuT.h"
+	"Select.h"
+	"login.h"
+	"sessao.h"
+
+1654781653 c:\users\2221215\documents\codeblocksv2\projetof\menu.h
+
+1655818523 c:\users\2221215\documents\codeblocksv2\projetof\menut.h
+
+1655818523 c:\users\2221215\documents\codeblocksv2\projetof\select.h
+
+1655818523 c:\users\2221215\documents\codeblocksv2\projetof\login.h
+
+1655991337 c:\users\2221215\documents\codeblocksv2\projetof\sessao.h
+
+1655594393 source:c:\users\ajbes\onedrive\documentos\tgpsin\projetof\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"conio.c"
+	<unistd.h>
+	<time.h>
+	"MenuT.h"
+	"Select.h"
+	"login.h"
+	"sessao.h"
+
+1655594339 c:\users\ajbes\onedrive\documentos\tgpsin\projetof\menut.h
+
+1655594402 c:\users\ajbes\onedrive\documentos\tgpsin\projetof\select.h
+
+1655594424 c:\users\ajbes\onedrive\documentos\tgpsin\projetof\login.h
+
+1655765301 c:\users\ajbes\onedrive\documentos\tgpsin\projetof\sessao.h
+
+1655594263 c:\users\ajbes\onedrive\documentos\tgpsin\projetof\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	<stdarg.h>
+	"conio.h"
+
+1655594263 c:\users\ajbes\onedrive\documentos\tgpsin\projetof\conio.h
+	<stdio.h>
+
+1655594393 c:\users\ajbes\onedrive\documentos\tgpsin\projetof\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"conio.c"
+	<unistd.h>
+	<time.h>
+	"MenuT.h"
+	"Select.h"
+	"login.h"
+	"sessao.h"
+
+1655818523 c:\users\2221215\documents\codeblocksv2\projetof\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	<stdarg.h>
+	"conio.h"
+
+1655818523 c:\users\2221215\documents\codeblocksv2\projetof\conio.h
+	<stdio.h>
+
